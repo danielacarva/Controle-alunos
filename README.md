@@ -15,3 +15,8 @@ Através de pulseiras digitais, a entrada e saída dos alunos da escola fica mui
 Também será emitido um alerta para o aluno que não tem autorização para sair da escola desacompanhado, ou em determinado horário.
 
 O controle de acesso pode interagir inclusive com smart watches, caso o aluno possua um.
+
+  
+Uma variação para mobile: registro dos e-mails dos alunos, com envio de confirmação de comparecimento para aula do dia. 
+A confirmação por parte do aluno gera uma marcação que ao final do mês enviará um e-mail com a cobrança de todas as aulas confirmadas e os dados de pagamento e/ou boleto (?).
+Relatório para o professor de todos os alunos, frequência e valor a ser recebido.
